@@ -1,0 +1,3 @@
+- hours.c : https://cs50.harvard.edu/x/2023/problems/2/hours/
+- no-vowels(leetspeak.c): https://cs50.harvard.edu/x/2023/problems/2/no-vowels/
+- password: https://cs50.harvard.edu/x/2023/problems/2/password/
